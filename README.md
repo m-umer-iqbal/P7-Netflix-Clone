@@ -1,4 +1,4 @@
-# 🎬 Netflix Frontend Clone
+# 🎬 Netflix Clone
 A simple Netflix website frontend clone built using HTML and CSS. This project replicates the sleek and modern design of Netflix’s homepage to practice and enhance frontend development skills.
 
 ## 🚀 Features
