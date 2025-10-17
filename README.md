@@ -13,3 +13,6 @@ A simple Netflix website frontend clone built using HTML and CSS. This project r
  
 ## 🎯 Purpose
 This project was created as part of my frontend development practice to strengthen my HTML and CSS skills by recreating real-world UI designs.
+
+## 🔧 Quick Start
+Open `index.html` in your browser to view the clone.
